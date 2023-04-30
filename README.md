@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JesusHdz09
+- 👀 I’m interested in biomedical sciences and data engineering
+- 🌱 I'm currently learning python to use in hospital services 
+- 💞️ I'm looking to collaborate on ia to help doctors and investigators in the thyroids cancer fight 
